@@ -35,4 +35,4 @@ jobs:
         uses: docker/build-push-action@v6
         with:
           push: true
-          tags: akhyarrrrr/praktikum-popl:latest
+          tags: ariqqqqqqq/tugaspopl:latest
